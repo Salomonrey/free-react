@@ -33,7 +33,7 @@ class Admin extends Component{
 
                     this.props.history.replace('/admin-panel')
             }else{
-                alert("Неправильный логин или пароль")
+                alert("Неправильный логин или пароль!")
             }
         })
         .catch(eror=>{
