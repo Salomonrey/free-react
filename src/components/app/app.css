@@ -1,0 +1,55 @@
+@font-face{
+    font-family: "Circe-Regular";
+    font-display: auto;
+    src:url("../../fonts/Circe-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "Circe-Light";
+    font-display: auto;
+    src:url("../../fonts/Circe-Light.ttf") format("truetype");
+}
+@font-face{
+    font-family: "Circe-Bold";
+    font-display: auto;
+    src:url("../../fonts/Circe-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "Circe-ExtraBold";
+    font-display: auto;
+    src:url("../../fonts/Circe-ExtraBold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "TTNorms-Bold";
+    font-display: auto;
+    src:url("../../fonts/TTNorms-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "TTNorms-Regular";
+    font-display: auto;
+    src:url("../../fonts/TTNorms-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "TTNorms-Medium";
+    font-display: auto;
+    src:url("../../fonts/TTNorms-Medium.ttf") format("truetype");
+}
+@font-face{
+    font-family: "ProximaNova-Bold";
+    font-display: auto;
+    src:url("../../fonts/ProximaNova-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "ProximaNova-Semibold";
+    font-display: auto;
+    src:url("../../fonts/ProximaNova-Semibold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "ProximaNova-Regular";
+    font-display: auto;
+    src:url("../../fonts/ProximaNova-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "14519";
+    font-display: auto;
+    src:url("../../fonts/14519.OTF") format("opentype");
+}

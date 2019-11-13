@@ -1,0 +1,161 @@
+.search_main_container{
+   width:90%;
+   max-width:100%;
+   height:auto;
+   margin:120px auto 130px auto;
+}
+.inwput_fqqor_searchewr122r input{
+    width:1000px;
+    max-width: 100%;
+    height:50px;
+    border:1px solid tomato;
+    padding: 10px;
+    font-size: 22px;
+    font-family: "Circe-Light";
+}
+.inwput_fqqor_searchewr122r input::placeholder{
+    color:#000;
+}
+.inwput_fqqor_searchewr122r{
+    width:1300px;
+    max-width: 100%;
+    height:auto;
+    margin:70px auto 30px auto;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+.inwput_fqqor_searchewr122r button{
+    width:190px;
+    max-width: 100%;
+    height:70px;
+    font-size: 22px;
+    background:none;
+    border:1px solid tomato;
+    font-family: "Circe-Light";
+    cursor: pointer;
+    transition: all .5s ease;
+}
+.inwput_fqqor_searchewr122r button:hover{
+    background: lightcoral;
+    color:white;
+    transition: all .5s ease;
+}   
+.tyyyyysecond_screen{
+    width:90%;
+    margin:0 auto;
+    text-align: justify;
+    font-family: "Circe-Light";
+    font-size:22px;
+}
+.divallhave123{
+    margin-bottom: 20px;
+    
+}
+.buttiondota2wering1{
+    width:200px;
+    max-width: 100%;
+    height:35px;   
+    border:1px solid tomato;
+    background:none;
+    font-family: "Circe-Light";
+    font-size:19px;
+    cursor: pointer;
+    float:right;
+    transition:all .5s ease;
+    margin: 12px;
+}
+.buttiondota2wering1:hover{
+    background:tomato;
+    border:1px solid #11191C;
+    transition:all .5s ease;
+    color:white
+}
+@media(max-width:1300px){
+    .inwput_fqqor_searchewr122r p{
+       margin:0 auto
+    }
+    .inwput_fqqor_searchewr122r button{
+        width:120px;
+        max-width: 100%;
+        height:70px;
+        font-size:19px;
+        
+     }
+}
+@media screen and (max-width:1295px){
+    .inwput_fqqor_searchewr122r button{
+      
+        margin-top:10px;
+     }
+}
+@media(max-width:915px){
+    .inwput_fqqor_searchewr122r button{
+        width:120px;
+        max-width: 100%;
+        height:70px;
+        font-size:19px;
+        margin-top:0px;
+     }
+     .inwput_fqqor_searchewr122r input{
+        width:500px;
+        max-width: 100%;
+        height:50px;
+        font-size: 16px;
+        font-family: "TTNorms-Regular";
+    }
+    .buttiondota2wering1{
+        width:150px;
+        margin-top:20px;
+        max-width: 100%;
+        height:30px;
+        font-size:18px; 
+    }
+    .search_main_container{
+        margin:120px auto 480px auto;
+    }
+
+}
+@media screen and (max-width:730px){
+    .inwput_fqqor_searchewr122r button{
+        width:120px;
+        max-width: 100%;
+        height:70px;
+        font-size:19px;
+        margin-top:10px;
+     }
+}
+@media(max-width:415px){
+    .search_main_container{
+        margin:120px auto 200px auto;
+    }
+    .inwput_fqqor_searchewr122r p{
+        text-align: center;
+    }
+    .inwput_fqqor_searchewr122r button{
+        width:100px;
+        max-width: 100%;
+        height:30px;
+        font-size:15px;
+        margin-top:10px;
+     }
+     .inwput_fqqor_searchewr122r input{
+        width:500px;
+        max-width: 100%;
+        height:30px;
+        font-size: 16px;
+        padding:2px;
+        font-family: "TTNorms-Regular";
+    }
+    .tyyyyysecond_screen{
+        font-size:16px;
+    }
+    .buttiondota2wering1{
+        width:100px;
+        margin-top:10px;
+        max-width: 100%;
+        height:30px;
+        font-size:15px; 
+    }
+   
+}

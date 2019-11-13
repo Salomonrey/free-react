@@ -1,0 +1,211 @@
+.header_top_for_all{
+    width:100%;
+    height: auto;
+    max-width: 100%;
+    margin:0 auto;
+    position: fixed;
+    z-index: 999999;
+    left:0;
+    top:0;
+    background:white;
+ }
+ .for_change_languafe {
+     display:flex;
+     margin-top:8px;
+     width:48px;
+ }
+ .for_change_languafe p:nth-child(2){
+    color:black;
+    margin:0px 3px 0px 3px;
+    
+    
+ }
+ .toggleClass{
+     font-family: "Circe-ExtraBold"!important;
+ }
+ .for_change_languafe p:nth-child(1){
+     cursor: pointer;
+ }
+ .for_change_languafe p:nth-child(3){
+    cursor: pointer;
+}
+ .for_change_languafe p{
+    font-family: "14519";
+    
+ }
+ .header_top_for_div_out{
+    width:89%;
+     max-width: 100%;
+     height:100px;
+     align-items: center;
+     margin:0 auto;
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+ }
+ .for_searcher_header{
+    display:flex;
+    width:120px;
+    max-width: 100%;
+    
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+ }
+
+ .header_top_for_div_text1 h1 a{
+    font-size: 50px;
+    text-decoration: none;
+    color:black;
+    line-height: 58px;
+    text-align: center;    
+    font-family: "14519";
+    padding-left:96px;
+    font-weight:500;
+ }
+.posabsltor_menutop{
+    position: absolute;
+    top:100px;
+    left:-200px;
+    background:white;
+    width:380px;
+    height:671px;
+    opacity: 0;
+    display: none;
+    max-width: 100%;
+}
+.pos1122absltor_me1122nutop{
+    display: block;
+    transition: 3s linear;
+    animation: shadow  .3s  ease-out;
+    animation-fill-mode:forwards
+}
+@keyframes shadow{
+    100%{
+        left:0px;
+        display: block;
+       opacity: 1;
+    }
+}
+.pos1122absltor_me1s2122nutop2s{
+    display:none;
+   
+}
+
+.dddlll_llooeel{
+    width:130px;
+    max-width: 100%;
+    height:auto;
+    margin:130px auto 0px auto;
+
+}
+.dddlll_llooeel ul{
+    list-style: none;
+}
+.dddlll_llooeel ul li a{
+    font-size: 25px;
+    line-height: 37px;
+    color: #000000;
+    text-decoration: none;
+    font-family: "Circe-Regular";
+
+}
+.dddlll_llooeel ul li{
+    padding-top:26px;
+
+}
+.button_burger_meni_fe img{
+    cursor: pointer;
+
+}
+
+.roooflerrrodl{
+    cursor: pointer;
+    width:30px;
+    height:30px;
+    max-width: 100%;
+    display:none;
+}
+.roooflerrrodlroooflerrrodl{
+    display: block;
+}
+.invis_for_norwistnwidt{
+    display: none;
+}
+ /* Медиа запросы */
+ @media(max-width:1100px){
+ 
+ }
+ @media(max-width:910px){
+  
+.dddlll_llooeel{
+    margin:60px auto 0px auto;
+}
+     .posabsltor_menutop{
+         width:240px;
+         max-width: 100%;
+         height:400px;
+     }
+     .dddlll_llooeel ul li a{
+        font-size: 20px;
+        line-height: 37px;
+        color: #000000;
+        text-decoration: none;
+        font-family: "Circe-Regular";
+    
+    }
+    .dddlll_llooeel ul li{
+        padding-top:10px;
+    }
+    .header_top_for_div_text1 h1 a{
+        padding-left:75px;
+        font-size: 40px;
+    }
+ }
+ @media(max-width:540px){
+     .for_change_languafe{
+        display:flex;
+        margin-top:5px;
+        width:48px;
+     }
+    .dddlll_llooeel{
+        margin:60px auto 0px auto;
+    }
+         .posabsltor_menutop{
+             width:200px;
+             max-width: 100%;
+             height:300px;
+         }
+         .dddlll_llooeel ul li a{
+            font-size: 15px;
+            line-height: 20px;
+            color: #000000;
+            text-decoration: none;
+            font-family: "Circe-Regular"; 
+        }
+        .dddlll_llooeel ul li{
+            padding-top:10px;
+        }
+    .header_top_for_div_text1 h1 a{
+        font-size: 25px;
+        line-height: 30px;
+        padding-left:0px;
+    }
+    .for_searcher_header div img{
+        width:20px;
+        height:20px;
+    }
+    .for_searcher_header{
+        width:50px;
+        max-width: 100%;
+    }
+ }
+ @media(max-width:209px){
+ .header_top_for_div_out{
+    height:auto;
+}
+ }
+ @media(max-width:204px){
+        .posabsltor_menutop{
+    top:110px;
+        }
+}
