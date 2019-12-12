@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+﻿import React,{Component} from 'react';
 import './contactns.css';
 import Elli121pse from './img/Elli121pse.png'
 import axios from 'axios';
@@ -67,18 +67,22 @@ class Contactns extends Component{
                 <section className="difffh2h2h21xacr">
                     <h2>{this.state.content.title3}</h2>
                     <h3>{this.state.content.title55}</h3>
+
+
                     <div className="difffh2h2h21xacr12">
                         <div className="difffh2h2h21xacr12s">
                           <p className="text_01_for_cont">{this.state.content.article2}</p> 
-                          <p className="text_02_for_cont">{this.state.content.article3}<br/>{this.state.content.tel}
-                          <a href="tel:+77056722266">+7(705)-672-22-66 </a>
-                          <br/> email <a href="mailto:jibek-joly@free-style.kz">jibek-joly@free-style.kz</a></p>
-                        </div>    
+                          <p className="text_02_for_cont">{this.state.content.article3}<br/>
+			{this.state.content.tel}<a href="tel:+77056722266">+7(705) 672-22-66 </a><br/>
+                          email: <a href="mailto:jibek-joly@free-style.kz">jibek-joly@free-style.kz</a></p>
+                        </div>
+
+    
                         <div className="difffh2h2h21xacr121s">
                         <p className="text_01_for_cont"> {this.state.content.article4}</p>  
-                          <p className="text_02_for_cont">{this.state.content.article5}
-                          <a href="tel:77056722266">+7(707)-833-71-23 </a>
-                          email <a href="mailto:armada@free-style.kz">armada@free-style.kz</a>
+                          <p className="text_02_for_cont">{this.state.content.article5}<br/>
+                          {this.state.content.tel}<a href="tel:77056722266">+7(707) 833-71-23</a><br/>
+                          email:<a href="mailto:armada@free-style.kz">armada@free-style.kz</a>
                           </p>
                         </div>
                     </div>    
@@ -87,7 +91,8 @@ class Contactns extends Component{
             <section className="nash_ofic_lichshe1">
               <h4>{this.state.content.article6}</h4> 
               <div className="nash_ofic_lichshe1div">
-                  <div><p>{this.state.content.tel}<a href = "tel:+77272941415">+7 (727)-294-14-15</a></p></div>
+                  <div><p>{this.state.content.tel}
+		  <a href = "tel:+77272941415">+7 (727) 294-14-15</a></p></div>
                    
                   <div><p><a href = "mailto:info@free-style.kz">info@free-style.kz</a></p></div>
 
