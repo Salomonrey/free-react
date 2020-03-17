@@ -81,6 +81,7 @@ class Contactns extends Component{
                         <div className="difffh2h2h21xacr121s">
                         <p className="text_01_for_cont"> {this.state.content.article4}</p>  
                           <p className="text_02_for_cont">{this.state.content.article5}<br/>
+						  <p className="text_02_for_cont">{this.state.content.article15}<br/>
                           {this.state.content.tel}<a href="tel:77056722266"> +7 (707) 833-71-23</a><br/>
                           email: <a href="mailto:armada@free-style.kz">armada@free-style.kz</a>
                           </p>
