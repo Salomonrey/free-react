@@ -65,7 +65,7 @@ class Footer extends Component{
                               </li>
                         </ul>
                     </nav>
-                    <div className="bottom_gooter_phone1"><a href="tel:+77078337126">+7 707 833 71 26</a></div>
+                    <div className="bottom_gooter_phone1"><a href="tel:+77078337123">+7 707 833 71 23</a></div>
                 </div>
                 <div className="Logo_link_bottom_f1oter"><div><Link to={this.state.href_main}>freestyle studio</Link></div></div>
                 <div className="last_div_for_fooe12ter">
