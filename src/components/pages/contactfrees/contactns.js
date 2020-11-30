@@ -93,7 +93,7 @@ class Contactns extends Component{
               <h4>{this.state.content.article6}</h4> 
               <div className="nash_ofic_lichshe1div">
                   <div><p>{this.state.content.tel}
-		  <a href = "tel:+77272941415"> +7 (727) 294-14-15</a></p></div>
+		  <a href = "tel:+77273122455"> +7 (727) 312-24-55</a></p></div>
                    
                   <div><p><a href = "mailto:info@free-style.kz">info@free-style.kz</a></p></div>
 
