@@ -1,4 +1,4 @@
-var ru = {
+﻿var ru = {
   main: {
     title1: "Creating a unique pieces of exclusive furniture since 2000",
     article1: `The high-class Free Style Studio furniture is characterized by the valuable materials and technologies it is made of. From the original painted furniture facades to natural veneer boards, from the perfect High Gloss surfaces to the most refined quartz and mirrors, every piece is a combination of elegance and master craftsmanship.`,
@@ -60,10 +60,10 @@ var ru = {
     article1:'*we will call you back asap',
     title3:'Contacts',
     title55:'Showrooms',
-    article2:'“Jibek Joly”',
-    article3:'Jibek Joly 135/10,  4th floor, shop D23-24-25-26',
+    article2:'“Kabdolova 10”',
+    article3:'Kabdolova 10, Unit  2, row 6 shop 01',
     article4:'“ARMADA” ',
-    article5:'Kabdolova 10, Unit  3, shop 16 Тel ',
+    article5:'Kabdolova 10, Unit  2, row 5 shop 29 Тel ',
     article6:'Office',
     article7:'Ratushnogo 78, Almaty ',
     tel:"Tel "
