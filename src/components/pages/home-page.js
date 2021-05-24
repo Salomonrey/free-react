@@ -43,7 +43,7 @@ class HomePage extends Component {
     document.getElementById("you112you112twe2").style.cursor = "pointer";
   }
   functionlive() {
-    window.location.href = "https://www.instagram.com/free.style.studio/";
+    window.location.href = "https://www.instagram.com/freestyle.kazakhstan/";
   }
   render() {
     return (
@@ -122,7 +122,7 @@ class HomePage extends Component {
             <div className="flex_div_kuhnia_homepage">
               <div className="flex_div_kuhnia_immg">
                 <a
-                  href="https://www.instagram.com/free.style.studio/"
+                  href="https://www.instagram.com/freestyle.kazakhstan/"
                   target="_blank"
                 >
                   <img src={Kuhna} alt="Free-styly studio" />
@@ -178,7 +178,7 @@ class HomePage extends Component {
               </div>
               <div className="flex_div_kuhnia_immg">
                 <a
-                  href="https://www.instagram.com/free.style.studio/"
+                  href="https://www.instagram.com/freestyle.kazakhstan/"
                   target="_blank"
                 >
                   <img src={Hole} alt="Free-styly studio" />
@@ -188,7 +188,7 @@ class HomePage extends Component {
             <div className="roof_for_last_one_rei19">
               <div className="flex_div_kuhnia_immg">
                 <a
-                  href="https://www.instagram.com/free.style.studio/"
+                  href="https://www.instagram.com/freestyle.kazakhstan/"
                   target="_blank"
                 >
                   <img src={Gray2} alt="Free-styly studio" />
@@ -242,7 +242,7 @@ class HomePage extends Component {
               </div>
               <div className="flex_div_kuhnia_immg">
                 <a
-                  href="https://www.instagram.com/free.style.studio/"
+                  href="https://www.instagram.com/freestyle.kazakhstan/"
                   target="_blank"
                 >
                   <img src={Vannaua} alt="Free-styly studio" />
