@@ -72,7 +72,7 @@ class Footer extends Component{
                     
                     <div className="div_for_imf_ins">
                         <a href="https://www.facebook.com/design.studio.freestyle" target="_blank"><img className='div_for_imf_feds2as' src={FB} alt=""/></a>
-                        <a href="https://www.instagram.com/free.style.studio/" target="_blank"><img className='div_for_imf_ins2as' src={IN} alt=""/></a>
+                        <a href="https://www.instagram.com/freestyle.kazakhstan/" target="_blank"><img className='div_for_imf_ins2as' src={IN} alt=""/></a>
                         <a href="https://pin.it/a7smlt2pbp4e3l" target="_blank"><img className='div_for_imf_prints' src={PT} alt=""/></a>
                         <a href="https://m.youtube.com/channel/UCgC6nfGr90elEjIiAMYNi3g" target="_blank"><img className='div_for_imf_feds2as' src={YOU} alt=""/></a>
                         </div>
