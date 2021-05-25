@@ -84,7 +84,7 @@ class Contactns extends Component{
                           <p className="text_02_for_cont">{this.state.content.article5}<br/>
                           {this.state.content.tel}<a href="tel:77073404113"> +7 (707) 340-41-13</a><br/>
 				
-                          email:<a href="mailto:info@fsstudio.kz">info@fsstudio.kz</a>
+                          email: <a href="mailto:info@fsstudio.kz">info@fsstudio.kz</a>
                           </p>
                         </div>
                     </div>    
