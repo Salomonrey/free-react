@@ -60,10 +60,10 @@
     article1:'*we will call you back asap',
     title3:'Contacts',
     title55:'Showrooms',
-    article2:'“Kabdolova 10”',
-    article3:'Kabdolova 10, Unit  2, row 6 shop 01',
+    article2:'“ARMADA”',
+    article3:'Kabdolova 1/8, Unit  2, row 6 shop 01',
     article4:'“ARMADA” ',
-    article5:'Kabdolova 10, Unit  2, row 5 shop 29 Тel ',
+    article5:'Kabdolova 1/8, Unit  2, row 5 shop 29 Тel ',
     article6:'Office',
     article7:'Ratushnogo 78, Almaty ',
     tel:"Tel "
